@@ -39,14 +39,25 @@ For additional information, I added some few columns which was higlighted in blu
 ![Power Q2](Images/PQuery2.png)
 
 ## Step 2: Data Aggregation/Transformation
-After performing data cleaning, I created a new sheet and create pivot tables. I combined columns relevant in answering the business questions and guide in creating charts.
+After completing the data cleaning process, I created a new worksheet in Excel specifically for data aggregation and transformation. This step focuses on summarizing, organizing, and restructuring the cleaned dataset to make it easier to analyze and visualize later.
 
 ![DA1](Images/DA1.png)
 
-
 ## Step 3: Data Analysis
 
+For the data analysis, I observed the results coming from the pivot tables and utilized the filter features to simplify the table and lead to the most accurate result.
+
+* Compared other regions to understand performance disparities
+* Observed seasonal patterns or spikes in sales, providing insights into peak business periods
+* Compared sales and profit across categories to identify the strongest and weakest performers.
+* Calculated metrics such as profit margin to evaluate which products contributed most to revenue efficiency.
+* Used PivotTables with negative profit values and filter to highlight underperforming products.
+
 ## Step 4: Dashboard
+
+After completing the analysis, I created charts and moved it into a new sheet to create a dahsboard.
+
+![D1](Images/D1.png)
 
 
 
