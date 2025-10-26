@@ -1,10 +1,10 @@
-# Superstore-Excel-Project
+# 🏪 Superstore-Excel-Project
 
 ## Objective
 
 For this project, I utilized excel and showcase my knowledge and proficency with its tools.I answered the common business questions using my downloaded datasets and perform basic data analysis to come up with the result and created dashboards using **Excel** based on the aggregated data.
 
- ### Business Questions
+ ### 💼 Business Questions
 1. Which region achieved the highest total profit and sales? 
 2. Which month recorded the highest sales during the 2016–2017 period?
 3. How many products were sold in each category and sub-category, and which performed best?
